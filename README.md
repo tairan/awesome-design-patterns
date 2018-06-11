@@ -21,6 +21,7 @@
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
 - [Micro services & Decentralized Systems](#micro-services--decentralized-systems)
+- [Multi Tanent](#multi-tanent)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
 - [Databases](#databases)
@@ -96,6 +97,12 @@
 - [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
 - [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - Comparing-message-queue-architectures.
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
+
+## Multi-Tenant
+- [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)
+- [The Force.com Multitenant Architecture](https://developer.salesforce.com/page/Multi_Tenant_Architecture)
+- [Introduction to the Multitenant Architecture](https://docs.oracle.com/database/121/CNCPT/cdbovrvw.htm#CNCPT89234)
+- [Developing Multi-tenant Applications for the Cloud, 3rd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff966499(v%3dpandp.10))
 
 ## Internet of things
 - [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.
